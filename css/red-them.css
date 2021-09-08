@@ -1,0 +1,25 @@
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover,
+.dropdown-menu>li>a:hover,
+.carousel-indicators .active,
+.color-box .gear-check
+
+{
+    background-color: #ff0000;
+}
+.container .navbar-header .brand span,
+.about span,
+.review span,
+.footer .footer-contant ul>h2
+{
+    color: #ff0000;
+   
+}
+.navbar-nav>li>.dropdown-menu
+{
+    border-top: 3px solid #ff0000;
+}
+.color-box .color-option,
+.review .carousel-indicators li.active
+{
+    border: 4px solid #ff0000;
+}
